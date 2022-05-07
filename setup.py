@@ -58,6 +58,8 @@ setup(
         "pandas",
         "pandasql",
         "plotly==5.3.1",
+        "pytest",
+        "pytest-asyncio",
         "python-dotenv",
         "pytz",
         "ratelimit",
